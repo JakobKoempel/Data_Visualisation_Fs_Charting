@@ -1,6 +1,6 @@
 ﻿open FSharp.Charting
 
-let tupleSeqToLineChart (s : (float * float) seq) : ChartTypes.GenericChart =
+let tupleSeqToLineChart (s : (float * float) seq) : ChartTypes.GenericChart = 
     Chart.Line ([for i in 0 .. (Seq.length s) - 1 -> fst (Seq.item i s), snd (Seq.item i s) ])
 
 let tupleSeqToPointChart (s : (float * float) seq) : ChartTypes.GenericChart =
