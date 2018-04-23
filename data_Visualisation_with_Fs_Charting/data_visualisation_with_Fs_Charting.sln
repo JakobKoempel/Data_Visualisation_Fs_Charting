@@ -11,6 +11,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "line_chart_tuple_sequence",
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "simple_linear_regression", "simple_linear_regression\simple_linear_regression.fsproj", "{36759376-9AFB-419B-B463-9F685BCBF842}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "bar_chart_basic", "bar_chart_basic\bar_chart_basic.fsproj", "{B470CD73-22DD-464B-9FD8-634BFBB44F42}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{36759376-9AFB-419B-B463-9F685BCBF842}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36759376-9AFB-419B-B463-9F685BCBF842}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36759376-9AFB-419B-B463-9F685BCBF842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B470CD73-22DD-464B-9FD8-634BFBB44F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B470CD73-22DD-464B-9FD8-634BFBB44F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B470CD73-22DD-464B-9FD8-634BFBB44F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B470CD73-22DD-464B-9FD8-634BFBB44F42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
