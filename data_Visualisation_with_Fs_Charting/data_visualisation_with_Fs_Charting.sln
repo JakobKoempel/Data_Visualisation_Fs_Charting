@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "sequence_as_line_chart", "sequence_as_line_chart\sequence_as_line_chart.fsproj", "{4DBFA994-71D5-471A-9DA2-5A3E3474DB11}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "line_chart_for_sequences", "sequence_as_line_chart\line_chart_for_sequences.fsproj", "{4DBFA994-71D5-471A-9DA2-5A3E3474DB11}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "line_chart_basic", "line_chart_basic\line_chart_basic.fsproj", "{889F426C-913C-41D7-9BAF-06C928672B39}"
 EndProject
