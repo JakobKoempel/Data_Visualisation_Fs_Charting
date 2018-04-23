@@ -11,6 +11,7 @@ let countryData1 =
 let countryData2 =
     [ "Antarctica", 2000L]
 
-let chart = Chart.Bar (countryData1 @ countryData2 |> Seq.sortByDescending (fun (_, y) -> y), Name = "Population by Continent")
+let chart = Chart.Bar (countryData1 @ countryData2 |> Seq.sortByDescending (fun (_, y) -> y), 
+                       Name = "Population by Continent")
 
 System.Windows.Forms.Application.Run(chart.ShowChart())
