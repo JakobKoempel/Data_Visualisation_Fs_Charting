@@ -15,6 +15,8 @@ Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "bar_chart_basic", "bar_char
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "boxplot_chart_basic", "boxplot_chart_basic\boxplot_chart_basic.fsproj", "{2197C16B-99A2-4CBE-A3EA-E652A6BA1639}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "pie_chart_basic", "pie_chart_basic\pie_chart_basic.fsproj", "{945410C7-913D-48AF-9C0B-5087628EABCB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{2197C16B-99A2-4CBE-A3EA-E652A6BA1639}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2197C16B-99A2-4CBE-A3EA-E652A6BA1639}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2197C16B-99A2-4CBE-A3EA-E652A6BA1639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{945410C7-913D-48AF-9C0B-5087628EABCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945410C7-913D-48AF-9C0B-5087628EABCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945410C7-913D-48AF-9C0B-5087628EABCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945410C7-913D-48AF-9C0B-5087628EABCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
