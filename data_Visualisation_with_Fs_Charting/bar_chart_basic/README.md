@@ -24,7 +24,7 @@ System.Windows.Forms.Application.Run(chart.ShowChart())
 
 A bar chart can be created in the following two lines.
 
-````fsharp
+```fsharp
 let chart = Chart.Bar (exampleSequence)
 System.Windows.Forms.Application.Run(chart.ShowChart())
 ```
