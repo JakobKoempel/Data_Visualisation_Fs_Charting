@@ -1,6 +1,6 @@
 # Bar charts in F#
 
-In this project I created a bar chart in F# using FsCharting.
+In this project, I created a bar chart in F# using FsCharting.
 
 ```fsharp
 open FSharp.Charting
