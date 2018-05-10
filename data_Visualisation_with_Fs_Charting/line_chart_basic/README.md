@@ -32,3 +32,6 @@ let combine = Chart.Combine(
 
 System.Windows.Forms.Application.Run(combine.ShowChart())
 ```
+This is what the new combined line chart looks like:
+
+![line chart](https://user-images.githubusercontent.com/38069530/39869863-8ebf67de-545f-11e8-89ac-c6fa79865f96.PNG)
