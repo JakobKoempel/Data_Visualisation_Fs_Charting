@@ -1,13 +1,14 @@
 ﻿open FSharp.Charting
 
-let countryData = 
-    [ "Afrika", 1_126_396_209L; 
-      "Asien", 4_436_285_301L; 
-      "Europa", 741_461_395L; 
-      "Süd Amerika", 425_849_627L; 
-      "Nord Amerika", 579_461_659L; 
-      "Australia", 25_305_783L]
+let electionResults = 
+    [ "CDU/CSU", 33.; 
+      "SPD", 20.5; 
+      "AfD", 12.6; 
+      "FDP", 10.7; 
+      "Linke", 9.2; 
+      "Grünen", 8.9
+      "Sonstige", 5.]
 
-let chart = countryData |> List.sortBy (fun (_, y) -> y) |> Chart.Pie
+let chart = Chart.Pie electionResults
 
 System.Windows.Forms.Application.Run(chart.ShowChart())
