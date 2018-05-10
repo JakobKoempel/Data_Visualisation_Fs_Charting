@@ -28,7 +28,7 @@ A bar chart can be created in the following two lines.
 let chart = Chart.Bar (exampleSequence)
 System.Windows.Forms.Application.Run(chart.ShowChart())
 ```
-(Note: exampleSequence : (string * int64) list)
+(Note: exampleSequence : (string * int64) seq)
 
 Now, I create data stored in sequences of tuples, connect them, sort them by the int64 value and create a bar chart out of them. The 
 strings in the tuple are used as labels for the single bars.  
