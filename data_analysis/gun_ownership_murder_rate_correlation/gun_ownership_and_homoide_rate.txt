@@ -1,0 +1,168 @@
+﻿Burundi 4.03 1.2 
+Comoros 7.60 1.8 
+Djibouti 6.77 2.8 
+Eritrea 7.46 0.5 
+Ethiopia 7.60 0.4 
+Kenya 5.75 6.4 
+Madagascar 0.62 0.8 
+Malawi 1.78 0.7 
+Mauritius 2.71 14.7 
+Mozambique 3.39 5.1 
+Rwanda 4.51 0.6 
+Seychelles 2.15 5.4 
+Somalia 5.56 9.1 
+Uganda 11.84 1.4 
+Tanzania 7.01 1.4 
+Zambia 5.85 8.9 
+Zimbabwe 6.74 4.6 
+Angola 9.65 17.3 
+Cameroon 5.93 2.8 
+Central African Republic 13.09 1 
+Chad 9.02 1.1 
+Democratic Republic of the Congo 13.36 1.4 
+Equatorial Guinea 3.21 19.9 
+Gabon 9.00 14 
+Algeria 1.37 7.6 
+Egypt 3.23 3.5 
+Libya 2.49 15.5 
+Morocco 1.05 5 
+Tunisia 3.05 0.1 
+Botswana 10.53 4.9 
+Lesotho 38.00 2.7 
+Namibia 16.93 12.6 
+South Africa 34.27 12.7 
+Swaziland 8.16 6.4 
+Benin 6.01 1.4 
+Burkina Faso 0.71 1.1 
+Cape Verde 8.84 5.4 
+Gambia 9.07 0.8 
+Ghana 1.70 0.4 
+Guinea 8.46 1.2 
+Guinea-Bissau 9.17 1.6 
+Liberia 3.22 1.6 
+Mali 10.82 1.1 
+Mauritania 10.22 1.6 
+Niger 4.47 0.7 
+Nigeria 9.79 1.5 
+Senegal 7.30 2 
+Sierra Leone 1.92 0.6 
+Togo 9.14 1 
+Bahamas 29.81 5.3 
+Barbados 10.91 7.8 
+Cuba 4.19 4.8 
+Dominican Republic 17.39 5.1 
+Haiti 10.04 0.6 
+Jamaica 43.21 8.1 
+Trinidad and Tobago 30.88 1.6 
+Belize 34.40 10 
+Costa Rica 11.77 9.9 
+El Salvador 108.64 5.8 
+Guatemala 31.21 13.1 
+Honduras 63.75 6.2 
+Mexico 16.35 15 
+Nicaragua 11.49 7.7 
+Panama 11.38 21.7 
+Canada 1.68 30.8 
+USA 4.88 101 
+Argentina 6.53 10.2 
+Bolivia 12.40 2.8 
+Brazil 26.74 8 
+Chile 3.59 10.7 
+Colombia 26.50 5.9 
+Ecuador 8.23 1.3 
+Guyana 19.42 14.6 
+Paraguay 9.29 17 
+Peru 7.16 18.8 
+Suriname 10.68 13.4 
+Uruguay 8.42 31.8 
+Venezuela 57.15 10.7 
+Kazakhstan 4.84 1.3 
+Kyrgyzstan 5.12 0.9 
+Tajikistan 1.44 1 
+Turkmenistan 4.20 3.8 
+Uzbekistan 2.99 1.5 
+China 0.74 4.9 
+North Korea 4.41 0.6 
+Japan 0.31 0.6 
+Mongolia 7.23 1.9 
+South Korea 0.74 1.1 
+Brunei 0.49 1.4 
+Cambodia 1.84 4.3 
+Indonesia 0.50 0.5 
+Laos 6.87 1.2 
+Malaysia 1.92 1.5 
+Myanmar 2.42 4 
+Philippines 9.84 4.7 
+Singapore 0.25 0.5 
+Thailand 3.51 15.6 
+Vietnam 1.52 1.7 
+Afghanistan 6.55 4.6 
+Bangladesh 2.51 0.5 
+Bhutan 2.75 3.5 
+India 3.21 4.2 
+Iran 4.12 7.3 
+Maldives 0.85 6.5 
+Nepal 2.27 0.8 
+Pakistan 7.81 11.6 
+Sri Lanka 2.91 1.5 
+Armenia 2.45 12.5 
+Azerbaijan 2.45 3.5 
+Bahrain 0.54 24.8 
+Cyprus 1.29 36.4 
+Georgia 2.68 7.3 
+Iraq 8.0 34.2 
+Israel 1.36 7.3 
+Jordan 2.00 11.5 
+Kuwait 1.78 24.8 
+Lebanon 3.95 21 
+Palestine 0.60 3.4 
+Oman 1.06 25.5 
+Qatar 8.10 19.2 
+Saudi Arabia 1.50 35 
+Syria 2.23 3.9 
+Turkey 4.30 12.5 
+United Arab Emirates 0.66 22.1 
+Yemen 6.67 54.8 
+Belarus 3.58 7.3 
+Bulgaria 1.80 6.2 
+Czech Republic 0.75 16.3 
+Hungary 1.48 5.5 
+Poland 0.74 1.3 
+Moldova 3.19 7.1 
+Romania 1.49 0.7 
+Russia 11.31 8.9 
+Slovakia 0.88 8.3 
+Ukraine 4.36 6.6 
+Denmark 0.99 12 
+Estonia 3.20 9.2 
+Finland 1.60 27.3 
+Iceland 0.91 30.3 
+Ireland 0.64 4.3 
+Latvia 4.11 19 
+Lithuania 5.98 0.7 
+Norway 0.56 31.3 
+Sweden 1.15 21 
+United Kingdom 0.92 6.2 
+Albania 2.28 8.6 
+Bosnia and Herzegovina 1.50 17.3 
+Croatia 0.87 21.7 
+Greece 0.85 22.5 
+Italy 0.78 11.9 
+Malta 0.96 11.9 
+Montenegro 2.72 23.1 
+Portugal 0.97 8.5 
+Serbia 1.13 58.21 
+Slovenia 1.21 13.5 
+Spain 0.66 10.4 
+Austria 0.51 30.4 
+Belgium 1.95 17.2 
+France 1.58 31.2 
+Germany 0.85 7 
+Luxembourg 0.72 15.3 
+Netherlands 0.61 3.9 
+Switzerland 0.69 24.45 
+Australia 0.98 13.1 
+New Zealand 0.91 22.6 
+Fiji 2.97 0.5 
+Papua New Guinea 10.42 1.2 
+Solomon Islands 3.77 0.4 
